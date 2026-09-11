@@ -1,0 +1,6 @@
+{
+  "name": "AutoDialer Pro",
+  "description": "Executive autodialer with real-time analytics, automated campaign calling, Room-persisted call scheduling, disposition tracking, and detailed call history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
